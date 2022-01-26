@@ -24,7 +24,7 @@
 
 
   
-| [Harsha Sathish](https://github.com/hxrshx)| [Arvind Kumar K](https://github.com/arvindkumar-prog) | [Sekhar Madan]() | [Goutham P]() | [Saketh](https://github.com/hxrshx) |
+| [Harsha Sathish](https://github.com/hxrshx)| [Arvind Kumar K](https://github.com/arvindkumar-prog) | [Sekhar Madan](https://github.com/chandrasekharmadan) | [Goutham P]() | [Saketh](https://github.com/hxrshx) |
 
 
 |--------------------|--------------------|----------------------|--------------------|--------------------|
