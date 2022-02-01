@@ -14,6 +14,7 @@
 	<li> Register API for Spotify </li>
 	<li> Run the Code and Check for Errors. Update Errors in Whatsapp Group</li>
 	<li> Search for other Related Datasets</li>
+	<li>Submit your progress within this Sunday 6/02
 </ul>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
