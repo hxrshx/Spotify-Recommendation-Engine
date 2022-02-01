@@ -6,6 +6,15 @@
   
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
   
+##To Do List
+<div align - "center">
+<ul>
+	<li> Create a Notebook in Google Colab/Anaconda </li>
+	<li> Clone this Repository</li>
+	<li> Register API for Spotify </li>
+	<li> Run the Code and Check for Errors. Update Errors in Whatsapp Group</li>
+	<li> Search for other Related Datasets</li>
+</ul>
 ## Data-Set
 
 | Name           | Link |
