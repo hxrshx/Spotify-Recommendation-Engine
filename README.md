@@ -57,10 +57,8 @@
 	
 ## Contributors
 
-
-! --- | --- | --- | --- | --- |
 | [Harsha Sathish](https://github.com/hxrshx)| [Arvind Kumar K](https://github.com/arvindkumar-prog) | [Sekhar Madan](https://github.com/chandrasekharmadan) | [Goutham P](https://github.com/gowtu47) | [Saketh](https://github.com/saaketh05) |
-
+! --- | --- | --- | --- | --- |
 
 	
 </div>
